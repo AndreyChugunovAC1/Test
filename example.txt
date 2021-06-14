@@ -1,2 +1,3 @@
 Example text
+ooooo
 New line:
